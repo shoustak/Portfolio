@@ -1,4 +1,4 @@
-# GPA Calculator
+# Personal Website
 
 This website is my personal portfolio, build with JavaScript, jQuery, CSS and HTML.
 
